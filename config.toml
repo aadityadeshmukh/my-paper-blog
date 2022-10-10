@@ -1,0 +1,24 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = ''
+theme = "paper"
+paginate = 5
+
+[params]
+  # color style
+  color = 'linen'                 # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'scr33nslaver'     # twitter.com/YOUR_TWITTER_ID
+  github = 'aadityadeshmukh'       # github.com/YOUR_GITHUB_ID
+  instagram = 'screenslav3r' # instagram.com/YOUR_INSTAGRAM_ID
+  rss = true                      # show rss icon with link
+
+  # home page profile
+  avatar = 'aadityadeshmukh@gmail.com'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+  name = 'Aditya Deshmukh 👋'
+  bio = 'Release Manager & Product Owner, Center of Excellence @ Amdocs'
+
+  # misc
+  disableHLJS = true              # disable requesting highlight.js
+  monoDarkIcon = true             # show monochrome dark mode icon
