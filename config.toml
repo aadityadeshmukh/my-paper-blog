@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'aditya-blog.vercel.app'
 languageCode = 'en-us'
 title = '✨'
 theme = "paper"
