@@ -14,3 +14,5 @@ title = "My second blog post"
 ## Edited this from forestry CMS
 
 Smooth as silk.
+
+![](/uploads/pl-vision-2.png)
