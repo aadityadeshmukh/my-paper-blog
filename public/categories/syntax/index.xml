@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>syntax on </title>
-    <link>http://example.org/categories/syntax/</link>
-    <description>Recent content in syntax on </description>
+    <title>syntax on ✨</title>
+    <link>aditya-blog.vercel.app/categories/syntax/</link>
+    <description>Recent content in syntax on ✨</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="aditya-blog.vercel.app/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first blog post</title>
-      <link>http://example.org/post/my-first/</link>
+      <link>aditya-blog.vercel.app/post/my-first/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/my-first/</guid>
+      <guid>aditya-blog.vercel.app/post/my-first/</guid>
       <description>WOAH! This is trule easy Paprikarsh!</description>
     </item>
     
