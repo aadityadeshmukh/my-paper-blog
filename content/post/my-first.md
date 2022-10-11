@@ -9,6 +9,8 @@ tags = ["markdown", "css", "html"]
 title = "My first blog post"
 
 +++
+![](/uploads/90.png)
+
 # WOAH!
 
 ## This is truly easy
