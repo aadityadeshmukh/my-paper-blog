@@ -9,8 +9,8 @@ tags = ["markdown", "css", "html"]
 title = "My second blog post"
 
 +++
-# Boom 2
+# My second article
 
-## Boom
+## Edited this from forestry CMS
 
-Editing the article from CMS
+Smooth as silk.
