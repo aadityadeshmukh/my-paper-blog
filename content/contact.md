@@ -6,5 +6,3 @@ description = ""
 title = "Contact"
 
 +++
-- [github.com/nanxiaobei](https://github.com/nanxiaobei)
-- [lee.so](https://lee.so)
