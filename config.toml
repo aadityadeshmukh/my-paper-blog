@@ -70,8 +70,8 @@ series = "series"
 [services]
 
   [services.instagram]
-    disableInlineCSS = true
+    disableInlineCSS = false
 
   [services.twitter]
-    disableInlineCSS = true
+    disableInlineCSS = false
 
