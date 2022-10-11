@@ -1,24 +1,16 @@
 +++
-author = "Aditya Deshmukh"
-title = "My second blog post"
-date = "2022-10-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-+++
+author = "Aditya Deshmukh"
+categories = ["themes", "syntax"]
+date = 2022-10-11T00:00:00Z
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+series = ["Themes Guide"]
+tags = ["markdown", "css", "html"]
+title = "My second blog post"
 
++++
 # Boom 2
 
 ## Boom
 
-
-jfndsjfnsdjk
+Editing the article from CMS
